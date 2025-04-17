@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Ujian Tengah Semester Pemrograman Web
 
 - **Nama**: Muhammad Qaessar Kartadilaga
