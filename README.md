@@ -4,14 +4,14 @@ Ujian Tengah Semester Pemrograman Web
 - **NIM**: 121140119
 - **Mata Kuliah**: Pemrograman Web
 
-## **Deskripsi Tugas**
-Tugas ini bertujuan untuk mengembangkan aplikasi berbasis **React** yang menerapkan berbagai konsep fundamental React seperti:
+## **Deskripsi**
 - **Komponen**: Pembagian aplikasi menjadi komponen-komponen yang dapat digunakan kembali.
 - **Hooks**: Penggunaan hooks seperti `useState`, `useEffect`, `useContext`, dan custom hooks.
 - **State Management**: Pengelolaan state menggunakan **Redux** untuk menyimpan dan mengelola data global seperti keranjang belanja dan wishlist.
 - **Routing**: Implementasi **React Router** untuk navigasi antar halaman.
 - **Fetching Data**: Pengambilan data produk dari **API eksternal** dan penanganan loading/error states.
 - **UI/UX**: Penerapan desain yang responsif dan interaktif menggunakan **Tailwind CSS**.
+- API yang digunakan: API yang digunakan yaitu Fake Store API (https://fakestoreapi.com/)
 
 ## **Komponen yang Terpenuhi**
 ### **1. Komponen**
